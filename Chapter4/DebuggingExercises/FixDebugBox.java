@@ -1,15 +1,15 @@
-public class DebugBox
+public class FixDebugBox
 {
    private int width;
    private int length;
    private int height;
-   private FixDebugBox()
+   public FixDebugBox()
    {
       length = 1;
       width = 1;
       height = 1;
    }
-   public DebugBox(int width, int length, int height)
+   public FixDebugBox(int width, int length, int height)
    {
       width = width;
       length = length;
