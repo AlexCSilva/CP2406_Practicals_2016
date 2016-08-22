@@ -8,13 +8,13 @@ public class DebugFive4
       int one, two, three, four;
       String str, output;
       str = JOptionPane.showInputDialog(null,"Enter an integer");
-      one = Integer.parseInt();
+      one = Integer.parseInt(str);
       str = JOptionPane.showInputDialog(null,"Enter an integer");
-      two = Integer.parseInt();
+      two = Integer.parseInt(str);
       str = JOptionPane.showInputDialog(null,"Enter an integer");
-      two = Integer.parseInt();
+      three = Integer.parseInt(str);
       str = JOptionPane.showInputDialog(null,"Enter an integer");
-      four = Integer.parseInt();
+      four = Integer.parseInt(str);
       if(one > two & one >= three && one < four)
          output = "Highest is " + one;
       else
