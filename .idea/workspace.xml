@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="241041b4-8aed-4e7e-8c85-b93908130e3c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter10/ProgrammingExercises/DemoHorses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter10/ProgrammingExercises/Horse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Chapter10/ProgrammingExercises/RaceHorse.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/Chapter10.iml" afterPath="$PROJECT_DIR$/Chapter10/Chapter10.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/CodeInFigures/PreferredCustomer.java" afterPath="$PROJECT_DIR$/Chapter10/CodeInFigures/PreferredCustomer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/CodeInFigures/ProfessionalBasketballPlayer.java" afterPath="$PROJECT_DIR$/Chapter10/CodeInFigures/ProfessionalBasketballPlayer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/CodeInFigures/ProfessionalHideAndGoSeekPlayer.java" afterPath="$PROJECT_DIR$/Chapter10/CodeInFigures/ProfessionalHideAndGoSeekPlayer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/Debugging/DebugBook.java" afterPath="$PROJECT_DIR$/Chapter10/Debugging/DebugBook.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/Debugging/DebugCustomerMakingPurchase.java" afterPath="$PROJECT_DIR$/Chapter10/Debugging/DebugCustomerMakingPurchase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Chapter10/Debugging/DebugTen4.java" afterPath="$PROJECT_DIR$/Chapter10/Debugging/DebugTen4.java" />
     </list>
     <list id="9f38be48-d48a-47e9-8651-fbf615b14244" name="un-neeeded changes" comment="" />
     <ignored path="CP2406_Practicals_2016.iws" />
@@ -31,28 +27,7 @@
     <favorites_list name="CP2406_Practicals_2016" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="DebugTen4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter10/Debugging/DebugTen4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DebugTen3.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter10/Debugging/DebugTen3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -117,6 +92,10 @@
         <option value="$PROJECT_DIR$/Chapter10/CodeInFigures/ProfessionalHideAndGoSeekPlayer.java" />
         <option value="$PROJECT_DIR$/Chapter10/Debugging/DebugTen4.java" />
         <option value="$PROJECT_DIR$/Chapter10/Debugging/DebugBook.java" />
+        <option value="$PROJECT_DIR$/Chapter10/ProgrammingExercises/DemoHorse.java" />
+        <option value="$PROJECT_DIR$/Chapter10/ProgrammingExercises/DemoHorses.java" />
+        <option value="$PROJECT_DIR$/Chapter10/ProgrammingExercises/Horse.java" />
+        <option value="$PROJECT_DIR$/Chapter10/ProgrammingExercises/RaceHorse.java" />
       </list>
     </option>
   </component>
@@ -193,7 +172,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Debugging" />
+              <option name="myItemId" value="ProgrammingExercises" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -771,7 +750,7 @@
       <updated>1471252977276</updated>
       <workItem from="1473045134677" duration="2846000" />
       <workItem from="1473048027776" duration="471000" />
-      <workItem from="1473048631736" duration="814000" />
+      <workItem from="1473048631736" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="Changed class name to FixDebugBox and changed private FixDebugBox to public fixDebugBox">
       <created>1471253716711</created>
@@ -878,15 +857,22 @@
       <option name="project" value="LOCAL" />
       <updated>1473048449812</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="finished fixing all the debugging exercises for chapter 10">
+      <created>1473049491480</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1473049491480</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4131000" />
+    <option name="totallyTimeSpent" value="4327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1684" height="1054" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -900,7 +886,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17925659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17925659" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -942,7 +928,8 @@
     <MESSAGE value="written and tested TwelveInts and DistanceFromAverage" />
     <MESSAGE value="Fixed some of DebuggingExercises for Chapter10 and some last chapters too" />
     <MESSAGE value="Fixed some more debugs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed some more debugs" />
+    <MESSAGE value="finished fixing all the debugging exercises for chapter 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished fixing all the debugging exercises for chapter 10" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
@@ -954,21 +941,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chapter3/ProgrammingExercises/Percentages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter3/ProgrammingExercises/Percentages2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter4/ProgrammingExercises/FormLetterWritter.java" />
     <entry file="file://$PROJECT_DIR$/Chapter4/ProgrammingExercises/FormLetterWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -1321,6 +1293,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/ProgrammingExercises/Horse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/Debugging/DebugTen4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -1334,6 +1327,27 @@
         <state relative-caret-position="119">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/ProgrammingExercises/DemoHorses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/ProgrammingExercises/RaceHorse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
