@@ -1,4 +1,4 @@
-import java.time.*;
+/*import java.time.*;
 public class ConcatenationTimeComparison
 {
    public static void main(String[] args)
@@ -27,4 +27,4 @@ public class ConcatenationTimeComparison
       System.out.println("Time with empty StringBuilder: " +
          ((endTime - startTime) / FACTOR + " milliseconds"));
    }
-}
+}*/

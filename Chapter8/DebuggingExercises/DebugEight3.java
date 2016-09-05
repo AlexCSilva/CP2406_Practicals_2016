@@ -18,7 +18,7 @@ public class DebugEight3
           "Enter floorPlans letter";
       entry = JOptionPane.showInputDialog(null, prompt);
        plan = entry.charAt(0);
-      for(x = 0; x > floorPlans.length; ++x)
+      for(x = 0; x < floorPlans.length; ++x)
          if(plan == floorPlans[x])
                fp = x;
       if(fp == 99)
