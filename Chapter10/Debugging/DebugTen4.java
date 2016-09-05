@@ -9,7 +9,7 @@ public class DebugTen4
       double credit = 1000.00;
       double purchase = 1325.77;
       DebugCustomerMakingPurchase cust = new
-         DebugCustomerMakingPurchase(id, credit, name, purchase);
+         DebugCustomerMakingPurchase(id, name, credit, purchase);
       cust.display();
    }
 }

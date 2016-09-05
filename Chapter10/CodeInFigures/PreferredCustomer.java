@@ -6,7 +6,7 @@ public class PreferredCustomer extends Customer
       super(id, bal);
       discountRate = rate;
    }
-   @Override
+   //@Override
    public void display()
    {
       super.display();
