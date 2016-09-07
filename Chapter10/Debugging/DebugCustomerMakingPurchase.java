@@ -12,7 +12,7 @@ public class DebugCustomerMakingPurchase extends DebugCustomer
        else
           overLimit = false;
     }
-    //@Override
+    @Override
     public void display()
     {
        super.display();
