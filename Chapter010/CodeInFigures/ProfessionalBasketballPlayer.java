@@ -1,4 +1,4 @@
-/*public class ProfessionalBasketballPlayer extends BasketballPlayer
+public class ProfessionalBasketballPlayer extends BasketballPlayer
 {
    double salary;
    //@Override
@@ -7,4 +7,3 @@
       System.out.println("I have nothing to say");
    }
 }  
-*/
