@@ -1,9 +1,9 @@
-public class ProfessionalBasketballPlayer extends BasketballPlayer
+/*public class ProfessionalBasketballPlayer extends BaseballPlayer
 {
    double salary;
-   //@Override
+   @Override
    public void displayMessage()
    {
       System.out.println("I have nothing to say");
    }
-}  
+}  */
