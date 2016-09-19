@@ -31,7 +31,8 @@ public class DebugEleven4
    }
    public static void displayArray()
    {
-      for(int x = 0; x < boatArray.length; --x)
+      // supposed to increment x in for loop
+      for(int x = 0; x < boatArray.length; ++x)
       JOptionPane.showMessageDialog(null, "Boat #" + (x  + 1) +
          boatArray[x].toString());
    }
