@@ -3,18 +3,20 @@ public class DebugEleven2
 {
    public static void main(String[] args)
    {
-      DebugBoat[] ref = DebugBoat[3];
-      DebugRowboat blueBoat = DebugRowboat();
-      DebugRowboat redBoat = DebugRowboat();
-      DebugOceanLiner bigBoat = DebugOceanLiner();
+      DebugBoat[] ref = new DebugBoat[3];
+      //need to include keyword 'new' to instantiate each object
+      DebugRowboat blueBoat = new DebugRowboat();
+      DebugRowboat redBoat = new DebugRowboat();
+      DebugOceanLiner bigBoat = new DebugOceanLiner();
       ref[0] = redBoat;
       ref[1] = blueBoat;
-      ref[1] = bigBoat;
-      for(int x = 0; x < refLength; ++x)
+      ref[2] = bigBoat;
+      for(int x = 0; x < ref.length; ++x)
       {
          ref[x].setPassengers();
          ref[x].setPower();
-         ref[x].toString();
+         //display the results of toString()
+         System.out.println(ref[x].toString());
       }
    }
 }

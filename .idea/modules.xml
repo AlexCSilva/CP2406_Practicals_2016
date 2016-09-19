@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter010/Chapter010.iml" filepath="$PROJECT_DIR$/Chapter010/Chapter010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter011/Chapter011.iml" filepath="$PROJECT_DIR$/Chapter011/Chapter011.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter03/Chapter03.iml" filepath="$PROJECT_DIR$/Chapter03/Chapter03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter010/Chapter10.iml" filepath="$PROJECT_DIR$/Chapter010/Chapter10.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter04/Chapter4.iml" filepath="$PROJECT_DIR$/Chapter04/Chapter4.iml" />
